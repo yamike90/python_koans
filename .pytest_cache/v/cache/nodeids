@@ -1,0 +1,9 @@
+[
+  "koans/about_conditions.py::test_start_if",
+  "koans/about_conditions.py::test_if_and_else",
+  "koans/about_conditions.py::test_not_in_if",
+  "koans/about_conditions.py::test_two_if",
+  "koans/about_conditions.py::test_elif",
+  "koans/about_conditions.py::test_elif_and_else",
+  "koans/about_conditions.py::test_logic"
+]
